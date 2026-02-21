@@ -19,3 +19,9 @@
 - 🗒️ Tinkering with dotfiles
 - 👨‍💻 Escaping vim
 - 🙈 `$ git reset HEAD~`
+
+#### Other
+
+- 🔐 [Public key](./natritmeyer-public-key.asc) (🫆 `2BC1D6BAB6B0C4AF07D113AC7BA42679EC0FD719`)
+- 🎤 [Quotes](./QUOTES.md) - Software development wisdom
+- 📚 [Recommended reading](./RECOMMENDED_READING.md) - By (un)popular demand

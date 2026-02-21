@@ -2,8 +2,10 @@
 
 > "_To me, legacy code is simply code without tests._" – Martin Fowler
 
+#### What I do
+
 - 💁‍♂️ Software Development Engineer in Test
-- 💡 Clean Code | TDD | BDD | CI/CD
+- 💡 Clean Code | TDD | BDD
 - 🚇 CI/CD pipelines
 
 #### Links
@@ -16,4 +18,4 @@
 
 - 🗒️ Tinkering with dotfiles
 - 👨‍💻 Escaping vim
-- 👇 Indenting YAML
+- 🙈 `$ git reset HEAD~`

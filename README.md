@@ -5,8 +5,8 @@
 #### What I do
 
 - 💁‍♂️ Software Development Engineer in Test
-- 💡 Clean Code | TDD | BDD
-- 🚇 CI/CD pipelines
+- 💡 Clean Code | XP | TDD | BDD
+- 🚇 CI/CD pipelines | DevOps
 
 #### Links
 
@@ -24,4 +24,4 @@
 
 - 🔐 [Public key](./natritmeyer-public-key.asc) (🫆 `2BC1D6BAB6B0C4AF07D113AC7BA42679EC0FD719`)
 - 🎤 [Quotes](./QUOTES.md) - Software development wisdom
-- 📚 [Recommended reading](./RECOMMENDED_READING.md) - By (un)popular demand
+- 📚 [Recommended reading](./RECOMMENDED_READING.md) - Books I think are great

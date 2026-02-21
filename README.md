@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Nat Ritmeyer
 
-> "_To me, legacy code is simply code without tests._" – Martin Fowler
+> "_Legacy code is simply code without tests._" – Martin Fowler
 
 #### What I do
 

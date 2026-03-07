@@ -1,4 +1,6 @@
-# 📚 Recommended reading
+# 🤩 Recommended resources
+
+## 📚 Recommended reading
 
 * 📘 David Thomas and Andrew Hunt, [The Pragmatic Programmer](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/) (Addison-Wesley Professional, 2019)
 * 📘 Robert C. Martin, [Clean Code, 2nd Edition](https://www.oreilly.com/library/view/clean-code-a/9780135398586/) (Addison-Wesley Professional, 2025)
@@ -12,5 +14,9 @@
 * 📘 Martin Fowler et al., [Refactoring: Improving the Design of Existing Code](https://www.oreilly.com/library/view/refactoring-improving-the/9780134757681/) (Addison-Wesley Professional, 2018)
 * 📘 Steve Freeman & Nat Pryce, [Growing Object-Oriented Software, Guided by Tests](https://www.oreilly.com/library/view/growing-object-oriented-software/9780321574442/) (Addison-Wesley Professional, 2009)
 * 📘 Kent Beck, [Test Driven Development: By Example](https://www.oreilly.com/library/view/test-driven-development/0321146530/) (Addison-Wesley Professional, 2002)
+
+## 📽️ Recommended watching
+
+* 📼 Bryan Cantrill, [Oral Tradition in Software Engineering](https://www.youtube.com/watch?v=4PaWFYm0kEw)
 
 //TODO: Organise, add the rest of the resources

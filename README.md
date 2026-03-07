@@ -6,7 +6,7 @@
 
 - 💁‍♂️ Software Development Engineer in Test
 - 💡 Clean Code | XP | TDD | BDD
-- 🚇 CI/CD pipelines | DevOps
+- 🚄 CI/CD pipelines | DevOps
 
 #### Links
 

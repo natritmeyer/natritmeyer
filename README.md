@@ -30,6 +30,6 @@
 #### Other
 
 - 🌍 Nationalities: 🇮🇪 (🇪🇺), 🇬🇧
-- 🔐 [Public key](./natritmeyer-public-key.asc) (🫆 `2BC1D6BAB6B0C4AF07D113AC7BA42679EC0FD719`)
+- 🔐 [Public key](https://github.com/natritmeyer.gpg) (🫆 `2BC1D6BAB6B0C4AF07D113AC7BA42679EC0FD719`)
 - 🎤 [Quotes](./QUOTES.md) - Software development wisdom
 - 📚 [Recommended resources](./RECOMMENDED_RESOURCES.md) - Great books and videos

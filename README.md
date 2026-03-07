@@ -7,6 +7,13 @@
 - 💁‍♂️ Software Development Engineer in Test
 - 💡 Clean Code | XP | TDD | BDD
 - 🚄 CI/CD pipelines | DevOps
+- 💼 Test Strategy | QA Governance
+- 🧑‍🤝‍🧑 Hiring | Developer and SDET mentorship
+- 💻 Open-source test automation software author
+
+#### Some previous clients
+
+- ![WestpacBank](img/westpac.png "Westpac Bank") ![Medicare Australia](img/medicare.png "MedicareAustralia") ![Australian Tax Office](img/ato.png "AustralianTaxOffice") ![Intellectual Property Australia](img/ipa.png "IntellectualPropertyAustralia") ![Virgin Blue](img/virgin.png "VirginBlueAirlines") ![Origin Energy](img/origin.png "OriginEnergy") ![APA Group](img/apa.png "APAGroup") ![Nokia](img/nokia.png "NokiaMusic") ![BBC News](img/bbc_news.png "BBCNews") ![BBC Weather](img/bbc_weather.png "BBCWeather") ![ITV](img/itv.png "ITV") ![HSBC](img/hsbc.png "HSBC") ![ClearRoute](img/clearroute.jpg "ClearRoute") ![Collinson Group](img/collinson.png "CollinsonGroup")
 
 #### Links
 

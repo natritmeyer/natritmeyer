@@ -3,7 +3,6 @@
 * 📘 David Thomas and Andrew Hunt, [The Pragmatic Programmer](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/) (Addison-Wesley Professional, 2019)
 * 📘 Robert C. Martin, [Clean Code, 2nd Edition](https://www.oreilly.com/library/view/clean-code-a/9780135398586/) (Addison-Wesley Professional, 2025)
 * 📘 Michael Feathers, [Working Effectively with Legacy Code](https://www.oreilly.com/library/view/working-effectively-with/0131177052/) (Addison-Wesley Professional, 2004)
-* 📘 Martin Fowler, [Refactoring: Improving the Design of Existing Code](https://www.oreilly.com/library/view/refactoring-improving-the/9780134757681/) (Addison-Wesley Professional, 2018)
 * 📘 Frederick Brooks [The Mythical Man Month](https://www.oreilly.com/library/view/mythical-man-month-the/0201835959/) (Addison-Wesley Professional, 1995)
 * 📘 Gene Kim, Kevin Behr, [Phoenix Project: A Novel About IT, Devops, And Helping Your Business Win](https://itrevolution.com/product/the-phoenix-project/) (IT Revolution, 2013)
 * 📘 Eric Evans, [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.oreilly.com/library/view/domain-driven-design-tackling/0321125215/), (Addison-Wesley Professional, 2003)

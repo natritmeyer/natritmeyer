@@ -1,7 +1,5 @@
 ## 👋 Hi, I'm Nat Ritmeyer
 
-> "_Legacy code is simply code without tests._" – Martin Fowler
-
 #### What I do
 
 - 💁‍♂️ Software Development Engineer in Test

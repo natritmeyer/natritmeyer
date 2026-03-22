@@ -39,4 +39,5 @@ If you only read 3 books, make it these three. If you only read one, make it the
 
 There are some great presentations online. Here are some of my favourites.
 
-* 📼 Bryan Cantrill, [Oral Tradition in Software Engineering](https://www.youtube.com/watch?v=4PaWFYm0kEw)
+* 📼 Bryan Cantrill, [Oral tradition in software engineering](https://www.youtube.com/watch?v=4PaWFYm0kEw)
+* 📼 Liz Rice, [Containers from scratch](https://www.youtube.com/watch?v=8fi7uSYlOdc)

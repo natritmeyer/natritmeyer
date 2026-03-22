@@ -25,7 +25,7 @@ If you only read 3 books, make it these three. If you only read one, make it the
 * 📘 Steve Freeman & Nat Pryce, [Growing Object-Oriented Software, Guided by Tests](https://www.oreilly.com/library/view/growing-object-oriented-software/9780321574442/) (2009)
 * 📘 Kent Beck, [Test Driven Development: By Example](https://www.oreilly.com/library/view/test-driven-development/0321146530/) (2002)
 
-#### Dealing with someone else's mess
+#### Tidying up a mess
 
 * 📘 Michael Feathers, [Working Effectively with Legacy Code](https://www.oreilly.com/library/view/working-effectively-with/0131177052/) (2004)
 * 📘 Martin Fowler et al., [Refactoring: Improving the Design of Existing Code](https://www.oreilly.com/library/view/refactoring-improving-the/9780134757681/) (2018)

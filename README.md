@@ -11,7 +11,7 @@
 
 #### Some previous clients
 
-- ![DWLBC](img/dwlbc.png "DepartmentOfWaterLandAndBiodiversityConservation") ![Sydac](img/sydac.png "Sydac") ![WestpacBank](img/westpac.png "Westpac Bank") ![Medicare Australia](img/medicare.png "MedicareAustralia") ![Australian Tax Office](img/ato.png "AustralianTaxOffice") ![Intellectual Property Australia](img/ipa.png "IntellectualPropertyAustralia") ![Virgin Blue](img/virgin.png "VirginBlueAirlines") ![Origin Energy](img/origin.png "OriginEnergy") ![APA Group](img/apa.png "APAGroup") ![Nokia](img/nokia.png "NokiaMusic") ![BBC News](img/bbc_news.png "BBCNews") ![BBC Weather](img/bbc_weather.png "BBCWeather") ![ITV](img/itv.png "ITV") ![HSBC](img/hsbc.png "HSBC") ![ClearRoute](img/clearroute.jpg "ClearRoute") ![Collinson Group](img/collinson.png "CollinsonGroup")
+- ![ICIS](img/icis.png "ICISTechnology") ![DWLBC](img/dwlbc.png "DepartmentOfWaterLandAndBiodiversityConservation") ![Sydac](img/sydac.png "Sydac") ![WestpacBank](img/westpac.png "Westpac Bank") ![Medicare Australia](img/medicare.png "MedicareAustralia") ![Australian Tax Office](img/ato.png "AustralianTaxOffice") ![Intellectual Property Australia](img/ipa.png "IntellectualPropertyAustralia") ![Virgin Blue](img/virgin.png "VirginBlueAirlines") ![Origin Energy](img/origin.png "OriginEnergy") ![APA Group](img/apa.png "APAGroup") ![Nokia](img/nokia.png "NokiaMusic") ![BBC News](img/bbc_news.png "BBCNews") ![BBC Weather](img/bbc_weather.png "BBCWeather") ![ITV](img/itv.png "ITV") ![HSBC](img/hsbc.png "HSBC") ![ClearRoute](img/clearroute.jpg "ClearRoute") ![Collinson Group](img/collinson.png "CollinsonGroup")
 
 #### Links
 

@@ -2,7 +2,7 @@
 
 #### What I do
 
-- 💁‍♂️ **Software Development Engineer in Test**
+- 💁‍♂️ **Software Quality Architect**
 - 💡 Clean Code | XP | TDD | BDD
 - 🚄 CI/CD pipelines | DevOps
 - 💼 Test Strategy | QA Governance

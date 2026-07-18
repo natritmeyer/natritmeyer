@@ -6,7 +6,7 @@ Want to be an effective dev/SDET? Read these books.
 
 ### 🏆 Top of the pile
 
-If you only read 3 books, make it these three. If you only read one, make it the first one.
+If you only read 3 books, make it these. If you only read one, make it the first one.
 
 - 📘 Jez Humble & David Farley, [Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation](https://www.oreilly.com/library/view/continuous-delivery-reliable/9780321670250/) (2010)
 - 📘 David Thomas and Andrew Hunt, [The Pragmatic Programmer](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/) (2019)

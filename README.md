@@ -15,11 +15,13 @@
 
 ### Open-source projects
 
-- 📦 [Countercheck](https://github.com/natritmeyer/countercheck) - An example test automation framework built with Java, Junit5, Spring, WebTestClient, & Playwright
-- 📦 [SitePrism](https://github.com/natritmeyer/site_prism) - A Page Object Model DSL for Capybara (handed over after [7 million downloads](https://rubygems.org/profiles/44530))
-- 📦 [Yarjuf](https://github.com/natritmeyer/yarjuf) - Yet Another RSpec JUnit Formatter
-- 📦 [Bewildr](https://github.com/natritmeyer/bewildr) - Test WPF UI apps with IronRuby
-- 🚧 _Currently working on..._ - An example microservice project that demos every type of testing under the sun...
+My open source projects, in reverse chronological order:
+
+- 🚧 _Currently working on..._ - An example microservice project that demos every type of testing under the sun... (2026)
+- 📦 [Countercheck](https://github.com/natritmeyer/countercheck) - An example test automation framework built with Java, Junit5, Spring, WebTestClient, & Playwright (2025-2026)
+- 📦 [SitePrism](https://github.com/natritmeyer/site_prism) - A Page Object Model DSL for Capybara (handed over after [7 million downloads](https://rubygems.org/profiles/44530)) (2011-2016)
+- 📦 [Yarjuf](https://github.com/natritmeyer/yarjuf) - Yet Another RSpec JUnit Formatter (2.7m downloads) (2012-2014)
+- 📦 [Bewildr](https://github.com/natritmeyer/bewildr) - Test WPF UI apps with IronRuby (70k downloads) (2010-2011)
 
 ### Links
 

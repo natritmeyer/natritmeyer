@@ -38,6 +38,6 @@ My open source projects, in reverse chronological order:
 ### Other
 
 - 🌍 Nationalities: 🇮🇪 (🇪🇺), 🇬🇧
-- 🔑 [Public key](https://github.com/natritmeyer.gpg) (🫆 `2BC1 D6BA B6B0 C4AF 07D1  13AC 7BA4 2679 EC0F D719`)
+- 🔐 [Public key](https://github.com/natritmeyer.gpg) (🫆 `2BC1 D6BA B6B0 C4AF 07D1  13AC 7BA4 2679 EC0F D719`)
 - 🎤 [Quotes](./QUOTES.md) - Software development wisdom
 - 📚 [Recommended resources](./RECOMMENDED_RESOURCES.md) - Great books and videos

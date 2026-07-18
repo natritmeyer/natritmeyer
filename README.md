@@ -28,6 +28,8 @@ My open source projects, in reverse chronological order:
 - 🌐 [Website](https://natritmeyer.com/)
 - 🙋‍♂️ [StackOverflow](https://stackoverflow.com/users/2032500/nat-ritmeyer/)
 - 👔 [LinkedIn](https://www.linkedin.com/in/nathanielritmeyer/) (endorse me for the `Dinosaurs` skill !)
+- 🎤 [Insightful Quotes](./QUOTES.md) - Software development wisdom
+- 📚 [Recommended resources](./RECOMMENDED_RESOURCES.md) - Great books and videos
 
 ### Skills
 
@@ -39,5 +41,3 @@ My open source projects, in reverse chronological order:
 
 - 🌍 Nationalities: 🇮🇪 (🇪🇺), 🇬🇧
 - 🔐 [Public key](https://github.com/natritmeyer.gpg) (🫆 `2BC1 D6BA B6B0 C4AF 07D1  13AC 7BA4 2679 EC0F D719`)
-- 🎤 [Quotes](./QUOTES.md) - Software development wisdom
-- 📚 [Recommended resources](./RECOMMENDED_RESOURCES.md) - Great books and videos

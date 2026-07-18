@@ -10,14 +10,14 @@ If you only read 3 books, make it these three. If you only read one, make it the
 
 - 📘 Jez Humble & David Farley, [Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation](https://www.oreilly.com/library/view/continuous-delivery-reliable/9780321670250/) (2010)
 - 📘 David Thomas and Andrew Hunt, [The Pragmatic Programmer](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/) (2019)
-- 📘 Kent Beck, [Extreme Programming Explained: Embrace Change](https://www.oreilly.com/library/view/extreme-programming-explained/0201616416/), (2004)
+- 📘 Kent Beck, [Extreme Programming Explained: Embrace Change](https://www.oreilly.com/library/view/extreme-programming-explained/0201616416/) (2004)
 
 ### 📘 The rest
 
 #### 👨‍💻 Writing proper code
 
 - 📘 Robert C. Martin, [Clean Code, 2nd Edition](https://www.oreilly.com/library/view/clean-code-a/9780135398586/) (2025)
-- 📘 Eric Evans, [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.oreilly.com/library/view/domain-driven-design-tackling/0321125215/), (2003)
+- 📘 Eric Evans, [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.oreilly.com/library/view/domain-driven-design-tackling/0321125215/) (2003)
 - 📘 Eric Freeman & Elisabeth Robson, [Head First Design Patterns, 2nd Edition](https://www.oreilly.com/library/view/head-first-design/9781492077992/) (2020)
 
 #### 🧪 Test Driven Development

@@ -19,6 +19,7 @@
 - 📦 [SitePrism](https://github.com/natritmeyer/site_prism) - A Page Object Model DSL for Capybara (handed over after [7 million downloads](https://rubygems.org/profiles/44530))
 - 📦 [Yarjuf](https://github.com/natritmeyer/yarjuf) - Yet Another RSpec JUnit Formatter
 - 📦 [Bewildr](https://github.com/natritmeyer/bewildr) - Test WPF UI apps with IronRuby
+- 🚧 _Currently working on..._ - An example microservice project that demos every type of testing under the sun...
 
 #### Links
 
@@ -35,6 +36,6 @@
 #### Other
 
 - 🌍 Nationalities: 🇮🇪 (🇪🇺), 🇬🇧
-- 🔐 [Public key](https://github.com/natritmeyer.gpg) (🫆 `2BC1 D6BA B6B0 C4AF 07D1  13AC 7BA4 2679 EC0F D719`)
+- 🔑 [Public key](https://github.com/natritmeyer.gpg) (🫆 `2BC1 D6BA B6B0 C4AF 07D1  13AC 7BA4 2679 EC0F D719`)
 - 🎤 [Quotes](./QUOTES.md) - Software development wisdom
 - 📚 [Recommended resources](./RECOMMENDED_RESOURCES.md) - Great books and videos

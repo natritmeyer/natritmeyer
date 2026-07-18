@@ -1,4 +1,4 @@
-# 🤩 Recommended resources
+# ⭐ Recommended resources
 
 Want to be an effective dev/SDET? Read these books.
 

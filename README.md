@@ -17,7 +17,7 @@
 
 My open source projects, in reverse chronological order:
 
-- 🚧 [Athenaeum](https://github.com/natritmeyer/athenaeum) - (_not yet public_) An example microservice project that demos every type of testing under the sun... (2026)
+- 🚧 `Athenaeum` - (_not yet public_) An example microservice project that demos every type of testing under the sun... (2026)
 - 📦 [Countercheck](https://github.com/natritmeyer/countercheck) - A test automation framework built with Java, Junit5, Spring, WebTestClient, & Playwright (2025)
 - 📦 [SitePrism](https://github.com/natritmeyer/site_prism) - A Page Object Model DSL for Capybara (handed over after [7 million downloads](https://rubygems.org/profiles/44530)) (2011-2016)
 - 📦 [Yarjuf](https://github.com/natritmeyer/yarjuf) - Yet Another RSpec JUnit Formatter (2.7m downloads) (2012-2014)

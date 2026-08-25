@@ -2,7 +2,7 @@
 
 ### What I do
 
-- 💁‍♂️ **Software Quality Architect**
+- 💁‍♂️ **Staff Engineer - QA**
 - 💡 Clean Code | XP | TDD | BDD
 - 🚄 CI/CD pipelines | DevOps
 - 💼 Test Strategy | QA Governance
@@ -34,6 +34,7 @@ My open source projects, in reverse chronological order:
 ### Skills
 
 - 🗒️ Tinkering with dotfiles
+- 🔮 Summoning code
 - 👨‍💻 Escaping vim
 - 🙈 `$ git reset HEAD~`
 

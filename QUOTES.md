@@ -10,7 +10,7 @@
 
 > "When anyone reports to us of someone, that he has met a man who knows all the crafts and everything else that men severally know, and that there is nothing that he does not know more exactly than anybody else, our tacit rejoinder must be that he is a simple fellow, who apparently has met some magician or sleight-of-hand man and imitator and has been deceived by him into the belief that he is all-wise, because of his own inability to put to the proof and distinguish knowledge, ignorance and imitation."
 >
-> _Plato, Republic, 10.598c–d. Plato, Plato in Twelve Volumes & 6 Translated by Paul Shorey, vol. 5 (Medford, MA: Cambridge, MA, Harvard University Press; London, William Heinemann Ltd., 1969)._
+> _Plato, Republic, 10.598c–d._
 
 ## On the importance of automated tests
 

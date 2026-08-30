@@ -12,6 +12,10 @@
 >
 > _Plato, Republic, 10.598c–d._
 
+> "Everything you read in the newspapers is absolutely true except for the rare story of which you happen to have firsthand knowledge."
+>
+> William French Smith, ["Required Reading Smith on Lawyers"](https://www.nytimes.com/1982/02/27/us/required-reading-smith-on-lawyers.html), New York Times (February 27, 1982, Section 1, Page 8)
+
 ## On the importance of automated tests
 
 > "To me, legacy code is simply code without tests."
